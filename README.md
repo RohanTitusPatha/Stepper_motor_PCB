@@ -1,7 +1,3 @@
-Here’s a sample README file for your 2-phase bipolar stepper motor PCB design:
-
----
-
 # 2-Phase Bipolar Stepper Motor PCB Design
 
 This repository contains the PCB design for controlling a 2-phase bipolar stepper motor using a **L297** and **L298** driver ICs. The design ensures precise motor control by efficiently managing current flow to the stepper motor phases.
@@ -29,7 +25,5 @@ This repository contains the PCB design for controlling a 2-phase bipolar steppe
 ## License
 This project is open-source and licensed under the [MIT License](LICENSE).
 
----
 
-You can modify the details based on your specific design and goals.
 
